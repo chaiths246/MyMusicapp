@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.chaithra.mymusicapp.MainActivity"
+    android:background="@drawable/background">
+
+
+<Button
+    android:id="@+id/Mainactivty"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:text="NowPlaying"
+    android:background="#FF7F50"
+    android:layout_margin="10dp"/>
+    <Button
+        android:id="@+id/searchbutton"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Search"
+        android:background="#FF7F50"
+        android:layout_margin="10dp"/>
+<Button
+    android:id="@+id/Songdetailbutton"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:text="Songdetails"
+    android:background="#FF7F50"
+    android:layout_margin="10dp"/>
+    <Button
+        android:id="@+id/paymentactivity"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Songdetails"
+        android:background="#FF7F50"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>

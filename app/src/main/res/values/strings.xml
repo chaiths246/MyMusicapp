@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMusicapp</string>
+    <string name="title_activity_now_playing">NowPlaying</string>
+    <string name="title_activity_songdetail">Songdetail</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="nowplaying_text">This activity shows which song is playing now</string>
+    <string name="searchactivitytext">This activiy is used to search the songs.</string>
+    <string name="songdetails">This activity is used to know the details of the song.</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+</resources>
